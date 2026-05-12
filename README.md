@@ -12,13 +12,6 @@
 ### <a href="https://www.virustotal.com" download="filename">Conferir a confiabilidade dos aplicativos no VirusTotal</a> 
 #
 
-# 👍 Contribuições 
- Se você gosta dos meus projetos, considere fazer uma pequena doação.
-
- Chave pix ❖  {<a href="LINK" download="filename">6cbc20f2-8b99-4b60-9b76-292f377fa27d</a>}
- 
-##
-
  ### <i class="fa-brands fa-pix">
 ⚠️ Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>. 
 
